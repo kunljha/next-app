@@ -12,6 +12,7 @@ const Home = () => {
 					name='keywords'
 					content='next, react, javascript, programming, web development'
 				/>
+				<title>Dev Update</title>
 			</Head>
 			<h1>Hello from Next.js App</h1>
 		</div>
